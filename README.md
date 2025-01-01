@@ -1,12 +1,12 @@
 ![touchUp Banner.png](https://cdn.dorahacks.io/static/files/18ffd4b567518ac591c1ae54675bd050.png)
 
-TouchUp is a product that **revolutionises the way people interact with their devices**. We allow our users to **control their computers, monitors, and TVs using just hand gestures**.
+TouchUp is a product that **revolutionizes the way people interact with their devices**. We allow our users to **control their computers, monitors, and TVs using just hand gestures**.
 
 ## Holo-Touch:
 Control your device from a distance, with Holo-Touch! Using AI models, our Holo-Touch technology allows you to control your cursor with your body, whether you’re a few centimetres, or a few metres away from your device. With Holo-Touch, you can do so much: present to others seamlessly, game in an immersive environment, or control computers and TVs from anywhere with just your hands.
 
 ## Any-Touch:
-Any-Touch is a modular computer add-on that enables any device to become touch-screen. Our state-of-the-art software detects your hand movements, calculates your precise location in respect to the screen, and tracks your clicks as well. Any-Touch is compatible with any device: computers, monitors, TVs … **if it’s not yet a touch screen, Any-Touch will turn it into one**.
+Any-Touch is a modular computer add-on that enables any device to become touch-screen. Our state-of-the-art software detects your hand movements, calculates your precise location with respect to the screen, and tracks your clicks as well. Any-Touch is compatible with any device: computers, monitors, TVs … **if it’s not yet a touch screen, Any-Touch will turn it into one**.
 
 | **Tool** | **Description** |
 | ----------- | ----------- |
